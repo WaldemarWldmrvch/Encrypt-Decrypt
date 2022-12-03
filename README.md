@@ -1,3 +1,2 @@
 # Encrypt-Decrypt
-Third home project.
-Soon it will be improved by using new knowledge!
+Мой третий учебный Java проект, в котором я ознакомился с параметризацией командной строки, работой с файлами, интерфейсами
